@@ -31,3 +31,5 @@ var asynChain = async(response) => {
         }
     }
 };
+
+module.exports.asynChain = asynChain;
